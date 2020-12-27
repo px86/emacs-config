@@ -2,7 +2,7 @@
 
 * About
 
-This emacs configuration is heavily influenced by [[[https://github.com/daviwil][David Wilson]]'s *emacs-from-scratch* youtube streams.
+This emacs configuration is heavily influenced by [[https://github.com/daviwil][David Wilson]]'s *emacs-from-scratch* youtube streams.
 His youtube channel : [[https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ][System Crafters]]
 
 ** Before getting started
